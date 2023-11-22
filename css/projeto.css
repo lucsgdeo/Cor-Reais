@@ -1,0 +1,19 @@
+:root body {
+    counter-reset: mynum;
+    height: 100%;
+}
+
+p {
+    font-size: 4vh;
+}
+
+p.numbered:before {
+    content: counter(mynum) ": ";
+    counter-increment: mynum;
+    font-weight: bold;
+}
+
+main {
+    padding: 20vh;
+}
+  
