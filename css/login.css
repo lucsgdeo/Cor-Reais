@@ -1,0 +1,41 @@
+:root body{
+    height: 100%;
+}
+
+:root main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    width: 90vw;
+    font-size: 5vw;
+}
+
+.input-group {
+    width: 80vw;
+}
+
+.form-control {
+    font-size: 4vh;
+    background-color: #FEFAE0;
+    border: none;
+    border-bottom: groove black;
+    border-radius: 0;
+}
+
+.btn {
+    padding-inline: 2vw;
+    background-color: #B99470;
+    font-size: 3vh;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    gap: 2vw;
+}

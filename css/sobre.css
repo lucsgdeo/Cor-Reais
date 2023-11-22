@@ -19,7 +19,8 @@ h1{
     color: black;
     background-color: FEFAE0;
     border: groove #B99470;
-    width: 200ch;
+    width: 90vw;
+    margin-bottom: 1vh;
 }
 
 .btn {

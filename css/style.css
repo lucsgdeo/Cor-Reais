@@ -31,7 +31,7 @@ header > div > a{
 
 .footer1 > h3 {
     margin-left: 0.1vw;
-    font-size: 2vw;
+    font-size: 3vh;
     font-family: 'Notable', sans-serif;;
 }
 
@@ -42,7 +42,7 @@ header > div > a{
 
 .footer2 > a {
     margin-inline: 2vw;
-    font-size: 1.6vw;
+    font-size: 3vh;
     text-decoration: underline;
 }
 
