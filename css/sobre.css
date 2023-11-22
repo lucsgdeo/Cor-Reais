@@ -1,0 +1,38 @@
+:root body{
+    height: auto;
+}
+
+:root main{
+    display: flex;
+    justify-content: center;
+    height: 90vh;
+    padding: auto;
+    margin: 0;
+}
+
+h1{
+    font: bold;
+    font-size: 12vh;
+}
+
+.card{
+    color: black;
+    background-color: FEFAE0;
+    border: groove #B99470;
+    width: 200ch;
+}
+
+.btn {
+    color: black;
+    text-decoration: none;
+    font-size: 4vh;
+}
+
+.card-body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2vh;
+}
+
+:root footer{
+    margin: 0;
+}
