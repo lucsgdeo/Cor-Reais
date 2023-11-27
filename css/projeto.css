@@ -3,9 +3,7 @@
     height: auto;
 }
 
-p {
-    font-size: 4vh;
-}
+
 
 p.numbered:before {
     content: counter(mynum) ": ";
